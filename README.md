@@ -16,7 +16,7 @@ This Python script allows you to automate sending a specified number of messages
 
 ## Usage
 
-1. Clone the repository or download the script `automated_message_sender.py` to your local machine.
+1. Clone the repository or download the script `MessageAutomator.py` to your local machine.
 
 2. Install the required library by running the following command in your terminal or command prompt:
 
