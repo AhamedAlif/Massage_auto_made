@@ -22,6 +22,7 @@ This Python script allows you to automate sending a specified number of messages
 
 ```bash
 pip install pyautogui
+pip install time
 Run the script:
 bash
 Copy code
