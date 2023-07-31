@@ -12,7 +12,7 @@ This Python script allows you to automate sending a specified number of messages
 ## Requirements
 
 - Python 3.x
-- `pyautogui` library (you can install it using `pip install pyautogui`)
+- `pyautogui` library (you can install it using `pip install pyautogui`
 - `Time` library (you can install it using `pip install Time`
 
 ## Usage
