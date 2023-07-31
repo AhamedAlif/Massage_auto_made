@@ -13,6 +13,7 @@ This Python script allows you to automate sending a specified number of messages
 
 - Python 3.x
 - `pyautogui` library (you can install it using `pip install pyautogui`)
+- `Time` library (you can install it using `pip install Time`
 
 ## Usage
 
@@ -51,5 +52,5 @@ This script is provided for educational purposes only. The author and OpenAI do 
 
 Use it at your own risk!
 
-Python Script: automated_message_sender.py
+Python Script: MessageAutomator.py
 
